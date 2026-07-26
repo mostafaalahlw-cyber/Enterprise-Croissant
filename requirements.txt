@@ -1,10 +1,5 @@
-io
-math
-dataclasses
-from typing import Dict, Tuple, List, Any
-numpy 
-pandas
-scipy
-plotly.graph_objects
-import plotly.express
 streamlit
+pandas
+numpy
+plotly
+fpdf
