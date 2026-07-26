@@ -1,10 +1,10 @@
-import io
-import math
-from dataclasses import dataclass
+io
+math
+dataclasses
 from typing import Dict, Tuple, List, Any
-import numpy as np
-import pandas as pd
-from scipy import stats
-import plotly.graph_objects as go
-import plotly.express as px
-import streamlit as st
+numpy 
+pandas
+scipy
+plotly.graph_objects
+import plotly.express
+streamlit
